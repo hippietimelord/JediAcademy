@@ -1,0 +1,15 @@
+body {
+	background-image: url("bg.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+footer#all{
+	padding: 1px 10px 1px 0px;
+	background-color: rgba(255,255,255,0.4);
+	position: bottom;
+	clear: both;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+}
